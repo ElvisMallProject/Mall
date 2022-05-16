@@ -1,0 +1,11 @@
+/shelf/
+/workspace.xml
+
+/**/mvnw
+/**/mvnw.cmd
+/**/.gitignore
+/**/target
+
+
+
+/.idea/workspace.xml
